@@ -1,6 +1,6 @@
-# scotch-store
+# Vue store
 
-> E-commerce vue store
+> E-commerce vue store using webpack + vuex + axios + vue-router
 
 ## Build Setup
 
